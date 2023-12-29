@@ -9,3 +9,6 @@ Next improvement:
 1. Allow user to move the tasks up and down to show the tasks' priority.
 
 
+Icon:
+I've put this icon image "target.png" in a new folder created as "assets" in the same path as other (.js) files.
+
