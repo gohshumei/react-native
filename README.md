@@ -14,6 +14,6 @@ Next improvement:
 
 
 Others:
-The app's icon is obtained from: https://www.flaticon.com/free-icon/target_538334?term=target&page=1&position=67&origin=search&related_id=538334
-I've put this icon image "target.png" in a new folder created as "assets" in the same path as other (.js) files.
+1. The app's icon is obtained from: https://www.flaticon.com/free-icon/target_538334?term=target&page=1&position=67&origin=search&related_id=538334
+2. I've put this icon image "target.png" in a new folder created as "assets" in the same path as other (.js) files.
 
