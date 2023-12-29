@@ -1,4 +1,11 @@
 # react-native
-On-going projects using react native:
+This is my first app - To-do list created with react native. 
 
-1. Task list / To-do list - Add your daily tasks. You can remove a task by clicking on it
+Functionality:
+1. Add your daily tasks
+2. You can remove a task by tapping on it
+
+Next improvement:
+1. Allow user to move the tasks up and down to show the tasks' priority.
+
+
