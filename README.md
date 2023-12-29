@@ -1,4 +1,4 @@
-# react-native
+# To-do or Task list APP
 This is my first app - To-do list created with react native. 
 
 Functionality:
